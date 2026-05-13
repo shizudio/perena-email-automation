@@ -1,0 +1,5 @@
+.env
+node_modules/
+sent-log.json
+newsletter-log.json
+.DS_Store
